@@ -10,7 +10,7 @@
 
 ## :eagle: Quick Start
 
-- 下载方案1【Windows用户 and 网速困难户】(推荐；约17MB)：[下载安装向导](https://t.qinse.top/subscribe/installer.exe)	
+- 下载方案1【Windows用户 and 网速困难户】(推荐；约17MB)：[下载安装向导](https://t.qinse.top/subscribe/installer.zip)	
 
 - 下载方案2【Python用户推荐】：Clone项目，项目源代码都在**V2RaycSpider[驱动号]**的文件夹中
 
