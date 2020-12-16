@@ -2,6 +2,27 @@
 
 科学上网，从娃娃抓起！
 
+#打赏我 https://www.paypal.com/paypalme/uaa2020
+
+BTC: 3FZxUtcR22xjJGwxp4G8jV9QjZJ2qHxKWL
+BTC-Bitcoin单笔充币大于0.00005BTC-Bitcoin才可以到账
+
+ETH： 0xfde5b338c528e07996495f997fb74c87123c0737
+
+LTC 地址: 3CBbSryJyVJhDTWtdMmPgjyTSTb6Jd8j1s
+
+USDT-Omni USDT 充币地址:
+
+3Dgv41cSDGqTdw4kZExRHepunjbBsF5FK3
+
+USDT-TRC20 USDT充币地址:
+
+TMkRymhb8PzpEFjWVzYyNiwwoGpStcUstr
+
+USDT-ERC20 USDT充币地址:
+
+0xfde5b338c528e07996495f997fb74c87123c0737
+
 ## :carousel_horse: Intro
 
 - 运行`V2Ray云彩姬.exe` 即可启动**v2ray云彩姬**获取订阅连接。
