@@ -1,4 +1,4 @@
-# V2Ray云彩姬
+# V2Ray
 
 科学上网，从娃娃抓起！
 
@@ -25,9 +25,9 @@ USDT-ERC20 USDT充币地址:
 
 ## :carousel_horse: Intro
 
-- 运行`V2Ray云彩姬.exe` 即可启动**v2ray云彩姬**获取订阅连接。
+- 运行`V2Ray云彩姬.exe` 即可启动**v2ray**获取订阅连接。
 - **运行脚本**||**开箱即用**
-- [云彩姬使用说明](https://github.com/QIN2DIM/V2RayCloudSpider/blob/master/V2Ray云彩姬使用说明.md)
+- [使用说明](https://github.com/QIN2DIM/V2RayCloudSpider/blob/master/V2Ray云彩姬使用说明.md)
 
 ## :eagle: Quick Start
 
